@@ -102,4 +102,4 @@ Samples estáticos: [`examples/sample-hoztage.md`](examples/sample-hoztage.md), 
 - [Hozfix](https://github.com/briandlhz06/hozfix)
 - [Parole](https://github.com/briandlhz06/parole)
 
-MIT
+MIT · [Brian De La Hoz](https://briandlhz.space) · [@briandlhz06](https://github.com/briandlhz06)
